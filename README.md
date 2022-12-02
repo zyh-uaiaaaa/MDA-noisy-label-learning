@@ -28,7 +28,7 @@ tasks.
 
 ## Train
 
-Train with 80\% label noise on CIFAR-100
+Train with 80\% label noise on CIFAR-100 with 4 GPUs
 ```key
 python train_cifar100.py
 ```
