@@ -27,7 +27,9 @@ further improve their performance and generalize well to other
 tasks.
 
 ## Train
+
+Train with 80\% label noise on CIFAR-100
 ```key
-python train.py
+python train_cifar100.py
 ```
 
