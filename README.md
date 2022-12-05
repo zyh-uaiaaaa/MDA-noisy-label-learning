@@ -1,5 +1,5 @@
 # MDA_noisy_label_learning
-Official implementation of the AAAI2023 Workshop paper : Model and Data Agreement for Learning with Noisy Labels
+Official implementation of the AAAI2023 Workshop paper : [Model and Data Agreement for Learning with Noisy Labels](https://arxiv.org/pdf/2212.01054v1.pdf)
 
 ## Abstract
 Learning with noisy labels is a vital topic for practical deep
